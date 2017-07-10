@@ -1,0 +1,307 @@
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.exe
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.pdb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.exe
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.pdb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Multi Player.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Options.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Back.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player Missions.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Exit.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1 Background.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont1.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Multi Player.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Options.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Back.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player Missions.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Exit.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1 Background.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.exe
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.pdb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.exe
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.pdb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bullet.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Projectile.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Projectile.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont2.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont2.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Pointing Arrow.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Multi Player.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Options.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Back.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player Missions.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Exit.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1 Background.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bullet.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Projectile.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Pointing Arrow.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.exe
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.pdb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.exe
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.pdb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Pointing Arrow.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode ticked.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode Unticked.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 2.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont1.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont2.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Multi Player.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Options.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Back.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player Missions.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Exit.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1 Background.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bullet.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Projectile.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Pointing Arrow.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode ticked.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode Unticked.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 2.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.exe
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.pdb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.exe
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.pdb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomber.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomb.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomber.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomb.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single player survival.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single player survival.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit prone.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG prone.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer prone.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Critical damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Heavy damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Mild damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Moderate damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit prone.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG prone.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer prone.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Critical damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Heavy damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Mild damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Moderate damage.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Multi Player.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Options.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Back.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player Missions.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Exit.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1 Background.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bullet.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Projectile.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Pointing Arrow.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode ticked.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode Unticked.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 2.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomber.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomb.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single player survival.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit prone.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG prone.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer prone.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Critical damage.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Heavy damage.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Mild damage.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Moderate damage.xnb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.exe
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\TermTwoGame.pdb
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.exe
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\TermTwoGame.pdb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode ticked.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode Unticked.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 2.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomber.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomb.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single player survival.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit prone.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG prone.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer prone.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Critical damage.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Heavy damage.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Mild damage.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Moderate damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Critical damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Heavy damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Mild damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Moderate damage.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Critical damage.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Heavy damage.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Mild damage.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Moderate damage.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission failed.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy one.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy two.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end one.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end two.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout request airstrike.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order duck and cover.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order fighting retreat.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order retreat.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 1.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 2.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 3.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Strike air pilot confirm command.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\audio.xgs
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air strike pilot confirm command.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Credits.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit lmg shot.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret charge.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret shoot.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slicebot saw.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air bomb explode.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bomber flying.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air strike pilot confirm command.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission failed.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy one.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy two.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end one.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end two.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout request airstrike.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order duck and cover.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order fighting retreat.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order retreat.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 1.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 2.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 3.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Strike air pilot confirm command.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit lmg shot.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret charge.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret shoot.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slicebot saw.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air bomb explode.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bomber flying.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Critical damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Heavy damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Mild damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Moderate damage.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Credits.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\audio.xgs
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Wave Bank.xwb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Sound Bank.xsb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air strike pilot confirm command.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission failed.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy one.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy two.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end one.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end two.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout request airstrike.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order duck and cover.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order fighting retreat.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order retreat.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 1.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 2.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 3.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Strike air pilot confirm command.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit lmg shot.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret charge.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret shoot.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slicebot saw.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air bomb explode.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bomber flying.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Credits.xnb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\audio.xgs
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Wave Bank.xwb
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Sound Bank.xsb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air strike pilot confirm command.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission failed.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy one.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy two.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end one.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end two.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout request airstrike.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order duck and cover.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order fighting retreat.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order retreat.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 1.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 2.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 3.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Strike air pilot confirm command.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit lmg shot.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret charge.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret shoot.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slicebot saw.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air bomb explode.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bomber flying.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode ticked.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode Unticked.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 2.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomber.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomb.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single player survival.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit prone.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG prone.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer prone.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Critical damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Heavy damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Mild damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Moderate damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Critical damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Heavy damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Mild damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Moderate damage.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Credits.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\audio.xgs
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Wave Bank.xwb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Menu background.xnb
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont3.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont3.xnb
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Menu background.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Menu background.xnb

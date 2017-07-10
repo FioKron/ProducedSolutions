@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermTwoGame", "TermTwoGame\TermTwoGame\TermTwoGame.csproj", "{747D0D4F-B76A-49F0-B261-929DBE180E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermTwoGameContent", "TermTwoGame\TermTwoGameContent\TermTwoGameContent.contentproj", "{1743C670-AE4E-45EC-B7EB-237BEF2640F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CA3284F-02B6-4948-B45B-F58E12318D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747D0D4F-B76A-49F0-B261-929DBE180E41}.Debug|x86.ActiveCfg = Debug|x86
+		{747D0D4F-B76A-49F0-B261-929DBE180E41}.Debug|x86.Build.0 = Debug|x86
+		{747D0D4F-B76A-49F0-B261-929DBE180E41}.Release|x86.ActiveCfg = Release|x86
+		{747D0D4F-B76A-49F0-B261-929DBE180E41}.Release|x86.Build.0 = Release|x86
+		{1743C670-AE4E-45EC-B7EB-237BEF2640F0}.Debug|x86.ActiveCfg = Debug|x86
+		{1743C670-AE4E-45EC-B7EB-237BEF2640F0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

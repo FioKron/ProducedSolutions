@@ -1,0 +1,9 @@
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Moren\Documents\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\audio.xml
+H:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\audio.xml
+K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\audio.xml
+E:\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\obj\x86\Debug\audio.xml

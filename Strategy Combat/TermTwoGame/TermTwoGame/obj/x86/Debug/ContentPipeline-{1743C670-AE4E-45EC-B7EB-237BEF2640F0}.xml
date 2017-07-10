@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-02-14T21:47:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2012-03-14T13:30:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Single Player.bmp</Source>
+      <Name>Single Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Multi Player.bmp</Source>
+      <Name>Multi Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Multi Player.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options.bmp</Source>
+      <Name>Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Options.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Back.bmp</Source>
+      <Name>Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Back.xnb</Output>
+      <Time>2012-04-18T11:41:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Single Player Missions.bmp</Source>
+      <Name>Single Player Missions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single Player Missions.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit.bmp</Source>
+      <Name>Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Exit.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mission 1.bmp</Source>
+      <Name>Mission 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mission 1 Background.bmp</Source>
+      <Name>Mission 1 Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 1 Background.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Turret.png</Source>
+      <Name>Plasma Turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit.png</Source>
+      <Name>Unit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit.xnb</Output>
+      <Time>2012-04-17T15:56:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit Holding LMG.png</Source>
+      <Name>Unit Holding LMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG.xnb</Output>
+      <Time>2012-04-20T21:33:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Projectile.png</Source>
+      <Name>Plasma Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Projectile.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pointing Arrow.png</Source>
+      <Name>Pointing Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Pointing Arrow.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Windowed Mode ticked.png</Source>
+      <Name>Windowed Mode ticked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode ticked.xnb</Output>
+      <Time>2012-04-17T15:56:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Windowed Mode Unticked.png</Source>
+      <Name>Windowed Mode Unticked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Windowed Mode Unticked.xnb</Output>
+      <Time>2012-04-17T15:56:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mission 2.bmp</Source>
+      <Name>Mission 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission 2.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Slice bot.png</Source>
+      <Name>Slice bot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot.xnb</Output>
+      <Time>2012-04-18T12:24:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit Holding Airstrike Pointer.png</Source>
+      <Name>Unit Holding Airstrike Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer.xnb</Output>
+      <Time>2012-04-20T21:55:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Air Bomber.png</Source>
+      <Name>Air Bomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomber.xnb</Output>
+      <Time>2012-04-20T22:04:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Air Bomb.png</Source>
+      <Name>Air Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air Bomb.xnb</Output>
+      <Time>2012-04-17T15:56:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Single player survival.png</Source>
+      <Name>Single player survival</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Single player survival.xnb</Output>
+      <Time>2012-04-17T15:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit prone.png</Source>
+      <Name>Unit prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit prone.xnb</Output>
+      <Time>2012-04-17T15:56:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit Holding LMG prone.png</Source>
+      <Name>Unit Holding LMG prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding LMG prone.xnb</Output>
+      <Time>2012-04-20T21:43:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit Holding Airstrike Pointer prone.png</Source>
+      <Name>Unit Holding Airstrike Pointer prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit Holding Airstrike Pointer prone.xnb</Output>
+      <Time>2012-04-17T15:56:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Turret Critical damage.png</Source>
+      <Name>Plasma Turret Critical damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Critical damage.xnb</Output>
+      <Time>2012-04-18T11:49:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Turret Heavy damage.png</Source>
+      <Name>Plasma Turret Heavy damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Heavy damage.xnb</Output>
+      <Time>2012-04-18T11:48:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Turret Mild damage.png</Source>
+      <Name>Plasma Turret Mild damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Mild damage.xnb</Output>
+      <Time>2012-04-17T16:26:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Turret Moderate damage.png</Source>
+      <Name>Plasma Turret Moderate damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma Turret Moderate damage.xnb</Output>
+      <Time>2012-04-17T16:54:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Slice bot Critical damage.png</Source>
+      <Name>Slice bot Critical damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Critical damage.xnb</Output>
+      <Time>2012-04-20T18:52:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Slice bot Heavy damage.png</Source>
+      <Name>Slice bot Heavy damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Heavy damage.xnb</Output>
+      <Time>2012-04-20T18:52:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Slice bot Mild damage.png</Source>
+      <Name>Slice bot Mild damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Mild damage.xnb</Output>
+      <Time>2012-04-20T18:42:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Slice bot Moderate damage.png</Source>
+      <Name>Slice bot Moderate damage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slice bot Moderate damage.xnb</Output>
+      <Time>2012-04-20T18:52:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Air strike pilot confirm command.wav</Source>
+      <Name>Air strike pilot confirm command</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air strike pilot confirm command.xnb</Output>
+      <Time>2012-04-21T20:19:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mission failed.wav</Source>
+      <Name>Mission failed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Mission failed.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit callout enemy mech destroy one.wav</Source>
+      <Name>Unit callout enemy mech destroy one</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy one.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit callout enemy mech destroy two.wav</Source>
+      <Name>Unit callout enemy mech destroy two</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech destroy two.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit callout enemy mech.wav</Source>
+      <Name>Unit callout enemy mech</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout enemy mech.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit callout mission end one.wav</Source>
+      <Name>Unit callout mission end one</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end one.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit callout mission end two.wav</Source>
+      <Name>Unit callout mission end two</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout mission end two.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit callout request airstrike.wav</Source>
+      <Name>Unit callout request airstrike</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit callout request airstrike.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit order duck and cover.wav</Source>
+      <Name>Unit order duck and cover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order duck and cover.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit order fighting retreat.wav</Source>
+      <Name>Unit order fighting retreat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order fighting retreat.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit order retreat.wav</Source>
+      <Name>Unit order retreat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit order retreat.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit selected callouts 1.wav</Source>
+      <Name>Unit selected callouts 1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 1.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit selected callouts 2.wav</Source>
+      <Name>Unit selected callouts 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 2.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit selected callouts 3.wav</Source>
+      <Name>Unit selected callouts 3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit selected callouts 3.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Strike air pilot confirm command.wav</Source>
+      <Name>Strike air pilot confirm command</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Strike air pilot confirm command.xnb</Output>
+      <Time>2012-04-21T19:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Unit lmg shot.wav</Source>
+      <Name>Unit lmg shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Unit lmg shot.xnb</Output>
+      <Time>2012-04-22T01:03:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma turret charge.wav</Source>
+      <Name>Plasma turret charge</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret charge.xnb</Output>
+      <Time>2012-04-22T15:14:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma turret shoot.wav</Source>
+      <Name>Plasma turret shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Plasma turret shoot.xnb</Output>
+      <Time>2012-04-22T15:27:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Slicebot saw.wav</Source>
+      <Name>Slicebot saw</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Slicebot saw.xnb</Output>
+      <Time>2012-04-22T15:38:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Air bomb explode.wav</Source>
+      <Name>Air bomb explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Air bomb explode.xnb</Output>
+      <Time>2012-04-22T15:54:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bomber flying.wav</Source>
+      <Name>Bomber flying</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Bomber flying.xnb</Output>
+      <Time>2012-04-22T16:34:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Credits.png</Source>
+      <Name>Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\Credits.xnb</Output>
+      <Time>2012-04-21T21:31:12+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1743C670-AE4E-45EC-B7EB-237BEF2640F0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGameContent\</RootDirectory>
+      <LoggerRootDirectory>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\</LoggerRootDirectory>
+      <IntermediateDirectory>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>K:\CFP 2130\TermTwoGame-WorkBasedLearning\TermTwoGame\TermTwoGame\TermTwoGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-07-08T02:33:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-07-08T02:33:24+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-07-08T02:33:24+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-07-08T02:33:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-07-08T02:33:24+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-07-08T02:33:24+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-05T14:52:33.5234375+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

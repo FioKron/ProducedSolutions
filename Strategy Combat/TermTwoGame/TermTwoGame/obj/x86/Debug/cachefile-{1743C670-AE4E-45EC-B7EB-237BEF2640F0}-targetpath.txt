@@ -1,0 +1,62 @@
+Content\Air strike pilot confirm command.xnb
+Content\Mission failed.xnb
+Content\Unit callout enemy mech destroy one.xnb
+Content\Unit callout enemy mech destroy two.xnb
+Content\Unit callout enemy mech.xnb
+Content\Unit callout mission end one.xnb
+Content\Unit callout mission end two.xnb
+Content\Unit callout request airstrike.xnb
+Content\Unit order duck and cover.xnb
+Content\Unit order fighting retreat.xnb
+Content\Unit order retreat.xnb
+Content\Unit selected callouts 1.xnb
+Content\Unit selected callouts 2.xnb
+Content\Unit selected callouts 3.xnb
+Content\Strike air pilot confirm command.xnb
+Content\Unit lmg shot.xnb
+Content\Plasma turret charge.xnb
+Content\Plasma turret shoot.xnb
+Content\Slicebot saw.xnb
+Content\Air bomb explode.xnb
+Content\Bomber flying.xnb
+Content\SpriteFont1.xnb
+Content\SpriteFont2.xnb
+Content\SpriteFont3.xnb
+Content\Single Player.xnb
+Content\Multi Player.xnb
+Content\Options.xnb
+Content\Back.xnb
+Content\Single Player Missions.xnb
+Content\Exit.xnb
+Content\Mission 1.xnb
+Content\Mission 1 Background.xnb
+Content\Plasma Turret.xnb
+Content\Unit.xnb
+Content\Unit Holding LMG.xnb
+Content\Bullet.xnb
+Content\Plasma Projectile.xnb
+Content\Pointing Arrow.xnb
+Content\Windowed Mode ticked.xnb
+Content\Windowed Mode Unticked.xnb
+Content\Mission 2.xnb
+Content\Slice bot.xnb
+Content\Unit Holding Airstrike Pointer.xnb
+Content\Air Bomber.xnb
+Content\Air Bomb.xnb
+Content\Single player survival.xnb
+Content\Unit prone.xnb
+Content\Unit Holding LMG prone.xnb
+Content\Unit Holding Airstrike Pointer prone.xnb
+Content\Plasma Turret Critical damage.xnb
+Content\Plasma Turret Heavy damage.xnb
+Content\Plasma Turret Mild damage.xnb
+Content\Plasma Turret Moderate damage.xnb
+Content\Slice bot Critical damage.xnb
+Content\Slice bot Heavy damage.xnb
+Content\Slice bot Mild damage.xnb
+Content\Slice bot Moderate damage.xnb
+Content\Credits.xnb
+Content\Menu background.xnb
+Content\audio.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

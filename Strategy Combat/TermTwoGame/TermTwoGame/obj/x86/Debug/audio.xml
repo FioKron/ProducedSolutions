@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 2181334751;
+    Bank Last Revised High = 30220445;
+
+    Wave
+    {
+        Name = Air strike pilot confirm command;
+        File = Air strike pilot confirm command.wav;
+        Build Settings Last Modified Low = 1122925716;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 421552;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563217451;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Mission failed;
+        File = Mission failed.wav;
+        Build Settings Last Modified Low = 1122935716;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 389276;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563227451;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit callout enemy mech destroy one;
+        File = Unit callout enemy mech destroy one.wav;
+        Build Settings Last Modified Low = 1122935716;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 288100;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563237452;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit callout enemy mech destroy two;
+        File = Unit callout enemy mech destroy two.wav;
+        Build Settings Last Modified Low = 1122935716;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 304800;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563257453;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit callout enemy mech;
+        File = Unit callout enemy mech.wav;
+        Build Settings Last Modified Low = 1122945717;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 253888;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563267453;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit callout mission end one;
+        File = Unit callout mission end one.wav;
+        Build Settings Last Modified Low = 1122945717;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 408268;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563287455;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit callout mission end two;
+        File = Unit callout mission end two.wav;
+        Build Settings Last Modified Low = 1122945717;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 337644;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563297455;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit callout request airstrike;
+        File = Unit callout request airstrike.wav;
+        Build Settings Last Modified Low = 1122945717;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 322324;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563307456;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit order duck and cover;
+        File = Unit order duck and cover.wav;
+        Build Settings Last Modified Low = 1122955717;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 252464;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563317456;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit order fighting retreat;
+        File = Unit order fighting retreat.wav;
+        Build Settings Last Modified Low = 1122955717;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 329588;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563337457;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit order retreat;
+        File = Unit order retreat.wav;
+        Build Settings Last Modified Low = 1122955717;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 194840;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563347458;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit selected callouts 1;
+        File = Unit selected callouts 1.wav;
+        Build Settings Last Modified Low = 1122965718;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 268200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563357459;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit selected callouts 2;
+        File = Unit selected callouts 2.wav;
+        Build Settings Last Modified Low = 1122965718;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 233176;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563367459;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit selected callouts 3;
+        File = Unit selected callouts 3.wav;
+        Build Settings Last Modified Low = 1122965718;
+        Build Settings Last Modified High = 30220275;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 289396;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1563377460;
+            Last Modified High = 30220271;
+        }
+    }
+
+    Wave
+    {
+        Name = Unit lmg shot;
+        File = Unit lmg shot.wav;
+        Build Settings Last Modified Low = 3210707091;
+        Build Settings Last Modified High = 30220315;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 126;
+            Play Region Length = 49630;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1449546358;
+            Last Modified High = 30220315;
+        }
+    }
+
+    Wave
+    {
+        Name = Plasma turret charge;
+        File = Plasma turret charge.wav;
+        Build Settings Last Modified Low = 1431629888;
+        Build Settings Last Modified High = 30220434;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 44562;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 721349262;
+            Last Modified High = 30220434;
+        }
+    }
+
+    Wave
+    {
+        Name = Plasma turret shoot;
+        File = Plasma turret shoot.wav;
+        Build Settings Last Modified Low = 288631236;
+        Build Settings Last Modified High = 30220436;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 188368;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4218457647;
+            Last Modified High = 30220435;
+        }
+    }
+
+    Wave
+    {
+        Name = Slicebot saw;
+        File = Slicebot saw.wav;
+        Build Settings Last Modified Low = 2427171916;
+        Build Settings Last Modified High = 30220437;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 185280;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2230580671;
+            Last Modified High = 30220437;
+        }
+    }
+
+    Wave
+    {
+        Name = Air bomb explode;
+        File = Air bomb explode.wav;
+        Build Settings Last Modified Low = 3652858745;
+        Build Settings Last Modified High = 30220439;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 995700;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3454107377;
+            Last Modified High = 30220439;
+        }
+    }
+
+    Wave
+    {
+        Name = Bomber flying;
+        File = Bomber flying.wav;
+        Build Settings Last Modified Low = 2137052219;
+        Build Settings Last Modified High = 30220445;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 986008;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1915719559;
+            Last Modified High = 30220445;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
