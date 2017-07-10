@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include\Armour.h" open="1" top="0" tabpos="10">
+		<Cursor position="463" topLine="0" />
+	</File>
+	<File name="include\CombatAdmin.h" open="1" top="0" tabpos="18">
+		<Cursor position="1386" topLine="7" />
+	</File>
+	<File name="include\Enemy.h" open="1" top="0" tabpos="16">
+		<Cursor position="118" topLine="4" />
+	</File>
+	<File name="include\Item.h" open="1" top="0" tabpos="2">
+		<Cursor position="177" topLine="0" />
+	</File>
+	<File name="include\Merchant.h" open="1" top="0" tabpos="22">
+		<Cursor position="622" topLine="0" />
+	</File>
+	<File name="include\Narrator.h" open="1" top="0" tabpos="6">
+		<Cursor position="622" topLine="0" />
+	</File>
+	<File name="include\NonPlayerCharacter.h" open="1" top="0" tabpos="20">
+		<Cursor position="607" topLine="0" />
+	</File>
+	<File name="include\Pibot.h" open="1" top="0" tabpos="8">
+		<Cursor position="200" topLine="0" />
+	</File>
+	<File name="include\Player.h" open="1" top="0" tabpos="12">
+		<Cursor position="1694" topLine="21" />
+	</File>
+	<File name="include\Sound.h" open="1" top="0" tabpos="14">
+		<Cursor position="151" topLine="0" />
+	</File>
+	<File name="include\Weapon.h" open="1" top="0" tabpos="5">
+		<Cursor position="548" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="15341" topLine="257" />
+	</File>
+	<File name="src\Armour.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="366" topLine="0" />
+	</File>
+	<File name="src\CombatAdmin.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="29126" topLine="628" />
+	</File>
+	<File name="src\Enemy.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="1899" topLine="45" />
+	</File>
+	<File name="src\Item.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="443" topLine="0" />
+	</File>
+	<File name="src\Merchant.cpp" open="1" top="0" tabpos="23">
+		<Cursor position="859" topLine="12" />
+	</File>
+	<File name="src\Narrator.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="766" topLine="27" />
+	</File>
+	<File name="src\NonPlayerCharacter.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="1267" topLine="3" />
+	</File>
+	<File name="src\Pibot.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="9257" topLine="231" />
+	</File>
+	<File name="src\Player.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="5660" topLine="144" />
+	</File>
+	<File name="src\Sound.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="472" topLine="0" />
+	</File>
+	<File name="src\Weapon.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="658" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

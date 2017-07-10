@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1363627168 source:c:\users\james moren\documents\c++ projects\test project\main.cpp
+	<iostream>
+	<Item.h>
+	<Weapon.h>
+	<sstream>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<stdio.h>
+	<irrKlang.h>
+	<Narrator.h>
+	<Pibot.h>
+	<Armour.h>
+	<Player.h>
+	<Weapon.h>
+	<CombatAdmin.h>
+	<Merchant.h>
+	<conio.h>
+	"../common/conio.h"
+
+1363532408 c:\users\james moren\documents\c++ projects\test project\include\item.h
+	<string>
+
+1363538295 c:\users\james moren\documents\c++ projects\test project\include\weapon.h
+	<Item.h>
+	<string>
+	<CombatAdmin.h>
+
+1363539919 c:\users\james moren\documents\c++ projects\test project\include\combatadmin.h
+	<string>
+	<Player.h>
+	<Sound.h>
+	<Enemy.h>
+	<Narrator.h>
+	<irrKlang.h>
+
+1363623777 c:\users\james moren\documents\c++ projects\test project\include\player.h
+	<string>
+	<Weapon.h>
+	<Armour.h>
+	<CombatAdmin.h>
+	<Item.h>
+
+1363538298 c:\users\james moren\documents\c++ projects\test project\include\armour.h
+	<Item.h>
+	<string>
+	<time.h>
+	<windows.h>
+
+1363436523 c:\users\james moren\documents\c++ projects\test project\include\sound.h
+	<irrKlang.h>
+	<string>
+	<windows.h>
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_irrklangtypes.h
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_esoundoutputdrivers.h
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_esoundengineoptions.h
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_estreammodes.h
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1320428164 d:\irrklang-1.3.0\irrklang-1.3.0\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1363436563 c:\users\james moren\documents\c++ projects\test project\include\enemy.h
+	<string>
+	<Weapon.h>
+	<Armour.h>
+	<Weapon.h>
+
+1363436547 c:\users\james moren\documents\c++ projects\test project\include\narrator.h
+	<string>
+
+1363436533 c:\users\james moren\documents\c++ projects\test project\include\pibot.h
+	<string>
+	<irrKlang.h>
+	<Player.h>
+	<Sound.h>
+	<CombatAdmin.h>
+	<Narrator.h>
+
+1363620215 c:\users\james moren\documents\c++ projects\test project\include\merchant.h
+	<string>
+	<iostream>
+	<NonPlayerCharacter.h>
+
+1363437316 c:\users\james moren\documents\c++ projects\test project\include\nonplayercharacter.h
+	<string>
+	<iostream>
+	<windows.h>
+
+1363538386 source:c:\users\james moren\documents\c++ projects\test project\src\armour.cpp
+	<Armour.h>
+	<time.h>
+
+1363622699 source:c:\users\james moren\documents\c++ projects\test project\src\combatadmin.cpp
+	<CombatAdmin.h>
+	<Windows.h>
+	<iostream>
+	<Sound.h>
+	<Narrator.h>
+	<sstream>
+	<enemy.h>
+
+1363538639 source:c:\users\james moren\documents\c++ projects\test project\src\enemy.cpp
+	<Enemy.h>
+	<iostream>
+	<windows.h>
+
+1363532417 source:c:\users\james moren\documents\c++ projects\test project\src\item.cpp
+	<Item.h>
+
+1363627961 source:c:\users\james moren\documents\c++ projects\test project\src\merchant.cpp
+	<Merchant.h>
+	<string>
+	<iostream>
+	<NonPlayerCharacter.h>
+	<CombatAdmin.h>
+	<Windows.h>
+	<enemy.h>
+	<Item.h>
+
+1320536386 source:c:\users\james moren\documents\c++ projects\test project\src\narrator.cpp
+	<Narrator.h>
+	<iostream>
+	<windows.h>
+	<windows.h>
+	<time.h>
+
+1363437953 source:c:\users\james moren\documents\c++ projects\test project\src\nonplayercharacter.cpp
+	<NonPlayerCharacter.h>
+	<string>
+	<iostream>
+	<windows.h>
+
+1363539186 source:c:\users\james moren\documents\c++ projects\test project\src\pibot.cpp
+	<Pibot.h>
+	<iostream>
+	<windows.h>
+	<Sound.h>
+	<Enemy.h>
+	<CombatAdmin.h>
+
+1363626253 source:c:\users\james moren\documents\c++ projects\test project\src\player.cpp
+	<Player.h>
+	<iostream>
+	<windows.h>
+	<Weapon.h>
+	<Armour.h>
+	<CombatAdmin.h>
+	<Item.h>
+
+1301860592 source:c:\users\james moren\documents\c++ projects\test project\src\sound.cpp
+	<Sound.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1363538408 source:c:\users\james moren\documents\c++ projects\test project\src\weapon.cpp
+	<Weapon.h>
+	<CombatAdmin.h>
+
