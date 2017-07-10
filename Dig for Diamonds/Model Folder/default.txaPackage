@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<node uin="8bho0jgycucycsys1v3w">
+		<property name="$metaclass" value="Actor20"/>
+		<property name="$name" value="Player"/>
+		<node uin="gj7tthgycuku3r-1atzp2">
+			<property name="$metaclass" value="UseCase20"/>
+			<property name="$name" value="UseCase1"/>
+		</node>
+		<link uin="ieje0rgycumj6l1zq05p">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Client"></participant>
+			<participant referencedUin="design:node:::gj7tthgycukwv2sen7i3" role="Supplier"></participant>
+		</link>
+		<link uin="ieje0rgycups65-iztm6n">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Client"></participant>
+			<participant referencedUin="design:node:::h0af3gycupdik-p2jo7f" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="gj7tthgycukwv2sen7i3">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Take a turn"/>
+	</node>
+	<node uin="h0af3gycvwetb-fhk75h">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Exit game"/>
+		<link uin="ieje0rgycvxeb5j4htiv">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::h0af3gycvwetb-fhk75h" role="Client"></participant>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="h0af3gycvw04z-ayb3pv">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Start a new game"/>
+		<link uin="ieje0rgycvxcmuju81dj">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::h0af3gycvw04z-ayb3pv" role="Client"></participant>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="a98gksh015zoye-b3mvet">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Enter player names"/>
+		<link uin="oz26zth015zoye-ifn1gc">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::a98gksh015zoye-b3mvet" role="Client"></participant>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="1vpa3wh0160ia72mnbjd">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Forfeit"/>
+		<link uin="yb1o8dh0160ia7vpnag1">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::1vpa3wh0160ia72mnbjd" role="Client"></participant>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="i0wrfmh0160san-t131z">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Return to main menu"/>
+		<link uin="41xv40h0160san-ln8e92">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::i0wrfmh0160san-t131z" role="Client"></participant>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="uwxkc3h01655qy-ebscuz">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Select number of players"/>
+		<link uin="t9rw4qh01655qz-trxy2t">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::uwxkc3h01655qy-ebscuz" role="Client"></participant>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="h0af3gycupdik-p2jo7f">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="Select a pocket"/>
+	</node>
+	<node uin="actpieh015wwno-ep9fvg">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="View 'about' information"/>
+		<link uin="ieje0rh015xglo-9e2rwq">
+			<property name="$metaclass" value="KernelAssociation20"/>
+			<participant referencedUin="design:node:::actpieh015wwno-ep9fvg" role="Client"></participant>
+			<participant referencedUin="design:node:::8bho0jgycucycsys1v3w" role="Supplier"></participant>
+		</link>
+	</node>
+	<node uin="gj7tthgycup3yw-k82x8p">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="UseCase1"/>
+	</node>
+	<node uin="gj7tthgycv0mhn9w61xz">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="UseCase2"/>
+	</node>
+	<node uin="gj7tthgycvvv84s5e2zn">
+		<property name="$metaclass" value="UseCase20"/>
+		<property name="$name" value="UseCase3"/>
+	</node>
+</nodeSet>

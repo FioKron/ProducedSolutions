@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="V1hexuhgycvg3jb-bgqfoz">
+		<property name="$metaclass" value="ClassDiagram20"/>
+		<property name="$name" value="Dig for diamonds"/>
+		<reference referencedUin="jdt:e_class:src:DigForDiamondsMainMenu">
+			<property name="bounds" value="775,15,381,461"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+			<reference referencedUin="jdt:l_ast:src:DigForDiamondsMainMenu:mainMenu">
+				<property name="sourceAnchor" value="1161,475"/>
+				<property name="targetAnchor" value="1156,481"/>
+				<property name="bendpoints" value="1192,475,1192,512,1156,512"/>
+				<property name="smooth_bendpoints" value="1192,475,1192,512,1156,512"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:DigForDiamondsMainMenu:control">
+				<property name="sourceAnchor" value="900,481"/>
+				<property name="targetAnchor" value="900,554"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:DigForDiamondsGUI">
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds" value="35,15,381,941"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:DigForDiamondsGUI:goalPockets">
+				<property name="sourceAnchor" value="372,960"/>
+				<property name="targetAnchor" value="468,1260"/>
+				<reference referencedUin="label:supplierCardinality:jdt:l_ast:src:DigForDiamondsGUI:goalPockets">
+					<property name="bounds" value="468,1229,27,21"/>
+				</reference>
+				<reference referencedUin="label:clientCardinality:jdt:l_ast:src:DigForDiamondsGUI:goalPockets">
+					<property name="bounds" value="385,970,12,21"/>
+				</reference>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:DigForDiamondsGUI:control">
+				<property name="sourceAnchor" value="421,220"/>
+				<property name="targetAnchor" value="470,220"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:DigForDiamondsGUI:players">
+				<property name="sourceAnchor" value="421,596"/>
+				<property name="targetAnchor" value="500,596"/>
+				<reference referencedUin="label:supplierCardinality:jdt:l_ast:src:DigForDiamondsGUI:players">
+					<property name="bounds" value="463,572,27,21"/>
+				</reference>
+				<reference referencedUin="label:clientCardinality:jdt:l_ast:src:DigForDiamondsGUI:players">
+					<property name="bounds" value="431,572,12,21"/>
+				</reference>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:DigForDiamondsGUI:playerPockets">
+				<property name="sourceAnchor" value="206,961"/>
+				<property name="targetAnchor" value="206,1209"/>
+				<reference referencedUin="label:supplierCardinality:jdt:l_ast:src:DigForDiamondsGUI:playerPockets">
+					<property name="bounds" value="209,1178,27,21"/>
+				</reference>
+				<reference referencedUin="label:clientCardinality:jdt:l_ast:src:DigForDiamondsGUI:playerPockets">
+					<property name="bounds" value="209,970,12,21"/>
+				</reference>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Pocket">
+			<property name="bounds" value="495,845,200,360"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:ImmutablePocket">
+			<property name="bounds" value="455,1255,182,150"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+			<reference referencedUin="jdt:l_gnt:src:ImmutablePocket:Pocket">
+				<property name="sourceAnchor" value="571,1260"/>
+				<property name="targetAnchor" value="571,1210"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:DigForDiamonds">
+			<property name="bounds" value="465,15,280,241"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:MutablePocket">
+			<property name="bounds" value="35,1204,181,201"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+			<reference referencedUin="jdt:l_gnt:src:MutablePocket:Pocket">
+				<property name="sourceAnchor" value="221,1209"/>
+				<property name="targetAnchor" value="500,1209"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:MainMenu">
+			<property name="bounds" value="775,549,200,213"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Player">
+			<property name="bounds" value="495,549,220,281"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+	</view>
+</nodeSet>
