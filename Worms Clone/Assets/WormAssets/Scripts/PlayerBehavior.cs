@@ -22,6 +22,7 @@ public class PlayerBehavior : MonoBehaviour
     public float GunRateOfFire = 0.10f;
     public Sprite MachineGunSprite;
     public SpriteRenderer ActiveWeaponRenderer;
+    public GameObject BulletSpawnLocationReference;
 
     /** For pooling machinegun (or other) bullets */
     public GameObject Bullet;
@@ -72,6 +73,19 @@ public class PlayerBehavior : MonoBehaviour
 
     private void Update()
     {
+        // For testing:
+        if (Input.GetKeyDown(KeyCode.T))
+        {
+            if (Time.timeScale != 1.0f)
+            {
+                Time.timeScale = 1.0f;
+            }
+            else
+            {
+                Time.timeScale = 0.010f;
+            }           
+        }
+
         if (Input.GetButtonDown("Jump") && Grounded)
         {
             PlayerWantsToJump = true;
@@ -184,8 +198,8 @@ public class PlayerBehavior : MonoBehaviour
         {
             if (!BulletPool[BulletCounter].activeInHierarchy)
             {
-                BulletPool[BulletCounter].transform.position = transform.position;
-                BulletPool[BulletCounter].transform.rotation = transform.rotation;
+                BulletPool[BulletCounter].transform.position = BulletSpawnLocationReference.transform.position;
+                BulletPool[BulletCounter].transform.rotation = BulletSpawnLocationReference.transform.rotation;
                 BulletPool[BulletCounter].SetActive(true);
                 break;
             }

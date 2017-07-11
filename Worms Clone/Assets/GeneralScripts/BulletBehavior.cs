@@ -37,8 +37,13 @@ public class BulletBehavior : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D OtherCollider)
     {
-        if (OtherCollider.gameObject.tag == "LevelBound")
+
+        if ((OtherCollider.gameObject.tag == "LevelBound") ||
+            (OtherCollider.gameObject.name == "HillLevelBound") ||
+            (OtherCollider.gameObject.layer == 5))
         {
+            
+            print("DESTROY");
             Destroy();
         }
     }
