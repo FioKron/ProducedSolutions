@@ -38,6 +38,9 @@ public class PlayerBehavior : MonoBehaviour
     /** For refering to the initial rotation of this sprite */
     private Vector3 InitialSpriteRotation;
 
+    /** The "ground" layer index (check layer settings for indices) */
+    private const int GROUND_LAYER = 8;
+
     // For object pooling:
 
     public int MaxBulletCount = 20;
@@ -206,11 +209,16 @@ public class PlayerBehavior : MonoBehaviour
         }
     }
 
-    // Allow the Player to jump only if they are on a level that supports them:
-    private void OnCollisionEnter2D(Collision2D col)
+    /** 
+     *  Description: Allow the Player to jump only if they are on a level that supports them:
+     *  
+     *  @Param: Collision2D OtherInCollision: The other entity involved in the this 2D collision.
+    */
+    private void OnCollisionEnter2D(Collision2D OtherInCollision)
     {
-        if (col.gameObject.CompareTag("SupportsPlayer"))
+        if (OtherInCollision.gameObject.layer == GROUND_LAYER)
         {
+            print("Player now grounded");
             Grounded = true;
         }
     }

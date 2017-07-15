@@ -9,7 +9,16 @@ public class BulletBehavior : MonoBehaviour
 
     // Private references:
     private GameObject PlayerGOReference;
-	void OnEnable()
+
+    // Constant values:
+
+    private const float MAX_BULLET_LIFE_TIME = 2.0f;
+    private const float COLLISION_DESTRUCTION_INVOCATION_DELAY = 0.010f;
+
+    // For the position to 'hide' the bullet in:
+    public Vector3 HIDDEN_POSITION = new Vector3(-100.0f, -100.0f, 0.0f);
+
+    void OnEnable()
     {
         foreach (GameObject ThisGO in FindObjectsOfType<GameObject>())
         {
@@ -24,8 +33,7 @@ public class BulletBehavior : MonoBehaviour
 
         // Verify this...
         if (!(PlayerGOReference.GetComponent<PlayerBehavior>().FacingRightwards))
-        {
-            
+        {          
             ShootingDirectionModifier = -1.0f;
         }
         //print(PlayerGOReference.GetComponent<PlayerBehavior>().FacingRightwards);
@@ -37,20 +45,25 @@ public class BulletBehavior : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D OtherCollider)
     {
-
-        if ((OtherCollider.gameObject.tag == "LevelBound") ||
-            (OtherCollider.gameObject.name == "HillLevelBound") ||
-            (OtherCollider.gameObject.layer == 5))
-        {
-            
+        if (OtherCollider.gameObject.CompareTag("LevelBound"))
+        {         
             print("DESTROY");
             Destroy();
+            //Invoke("Destroy", 0.010f);
         }
     }
 	
 	void Destroy()
     {
+        // Relocate the bullet before setting it to an inactive state:
+        RelocateBullet();
         gameObject.SetActive(false);
+    }
+
+    // Set the bullet's location to somewhere quite far from what the Player can see:
+    void RelocateBullet()
+    {
+        gameObject.transform.position = HIDDEN_POSITION;
     }
     
     void OnDisable()
