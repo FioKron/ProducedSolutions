@@ -1,0 +1,40 @@
+Begin Object Class=SoundCue Name="Rifle_ReloadMagInsert_Cue"
+   Begin Object Class=SoundCueGraph Name="SoundCueGraph_12"
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_25"
+      End Object
+      Begin Object Class=SoundCueGraphNode_Root Name="SoundCueGraphNode_Root_12"
+      End Object
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_19"
+   End Object
+   Begin Object Name="SoundCueGraph_12"
+      Begin Object Name="SoundCueGraphNode_25"
+         SoundNode=SoundNodeWavePlayer'Rifle_ReloadMagInsert_Cue:SoundNodeWavePlayer_19'
+         NodePosX=-250
+         NodePosY=-35
+         NodeGuid=D8B7D16D4990BC4BA32CCB9B777C282A
+         CustomProperties Pin (PinId=DA1FC664411F20076506729918FC0291,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.bIsMap=False,PinType.bIsSet=False,PinType.bIsArray=False,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(SoundCueGraphNode_Root_12 234B2E70426EF2CDC197D7BFBE27D208,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_Root_12"
+         NodePosY=-58
+         NodeGuid=30BB0B1048AE72E19A41BAAA4FD43BA9
+         CustomProperties Pin (PinId=234B2E70426EF2CDC197D7BFBE27D208,PinType.PinCategory="SoundNode",PinType.PinSubCategory="Root",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.bIsMap=False,PinType.bIsSet=False,PinType.bIsArray=False,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(SoundCueGraphNode_25 DA1FC664411F20076506729918FC0291,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,)
+      End Object
+      Schema=Class'/Script/AudioEditor.SoundCueGraphSchema'
+      Nodes(0)=SoundCueGraphNode_Root'SoundCueGraphNode_Root_12'
+      Nodes(1)=SoundCueGraphNode'SoundCueGraphNode_25'
+      bAllowDeletion=False
+      GraphGuid=4A16497743BC85B6EC5621AF61EB2D61
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_19"
+      SoundWaveAssetPtr=/Game/ModifiableTurretDemo/PrototypeWeap/Sound/Rifle/Rifle_ReloadMagInsert.Rifle_ReloadMagInsert
+      GraphNode=SoundCueGraphNode'Rifle_ReloadMagInsert_Cue:SoundCueGraph_12.SoundCueGraphNode_25'
+   End Object
+   FirstNode=SoundNodeWavePlayer'SoundNodeWavePlayer_19'
+   AllNodes(0)=SoundNodeWavePlayer'SoundNodeWavePlayer_19'
+   SoundCueGraph=SoundCueGraph'SoundCueGraph_12'
+   bOverrideConcurrency=True
+   ConcurrencyOverrides=(ResolutionRule=PreventNew)
+   Duration=0.466979
+   AttenuationSettings=SoundAttenuation'/Game/ModifiableTurretDemo/PrototypeWeap/Sound/Attenuation/WeaponHandling_att.WeaponHandling_att'
+End Object

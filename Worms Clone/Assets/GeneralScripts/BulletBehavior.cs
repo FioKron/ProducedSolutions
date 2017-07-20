@@ -14,9 +14,21 @@ public class BulletBehavior : MonoBehaviour
 
     private const float MAX_BULLET_LIFE_TIME = 2.0f;
     private const float COLLISION_DESTRUCTION_INVOCATION_DELAY = 0.010f;
+    private const int BULLET_DAMAGE = 10;
 
     // For the position to 'hide' the bullet in:
     public Vector3 HIDDEN_POSITION = new Vector3(-100.0f, -100.0f, 0.0f);
+
+    // For delayed activation:
+    public void Initialise(float ActivationDelay)
+    {
+        Invoke("Activate", ActivationDelay);    
+    }
+
+    private void Activate()
+    {
+        gameObject.SetActive(true);
+    }
 
     void OnEnable()
     {
@@ -43,13 +55,20 @@ public class BulletBehavior : MonoBehaviour
         Invoke("Destroy", 2.0f);
     }
 
-    void OnCollisionEnter2D(Collision2D OtherCollider)
+    void OnCollisionEnter2D(Collision2D OtherInCollision)
     {
-        if (OtherCollider.gameObject.CompareTag("LevelBound"))
+        if (OtherInCollision.gameObject.CompareTag("LevelBound"))
         {         
             print("DESTROY");
             Destroy();
             //Invoke("Destroy", 0.010f);
+        }
+        else if (OtherInCollision.gameObject.CompareTag("Enemy") ||
+            OtherInCollision.gameObject.CompareTag("Player"))
+        {
+            // Deal Damage to this sprite:
+            OtherInCollision.gameObject.GetComponent<SpriteBehavior>().DamageCharacter(BULLET_DAMAGE);
+            Destroy();
         }
     }
 	

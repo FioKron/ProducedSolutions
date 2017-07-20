@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\GeneralScripts\BulletBehavior.cs" />
+     <Compile Include="Assets\WormAssets\Scripts\EnemyBehavior.cs" />
      <Compile Include="Assets\WormAssets\Scripts\PlayerBehavior.cs" />
+     <Compile Include="Assets\WormAssets\Scripts\SpriteBehavior.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity 5.6.2f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
